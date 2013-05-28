@@ -10,7 +10,7 @@ Make scrolling on your site much more musical.
 
 ```javascript
 // Play a musical note every 800 pixels scrolled
-// By default we use 200px
+// By default we use 400px
 fartscroll(800); 
 ```
 
