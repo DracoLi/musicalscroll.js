@@ -11,6 +11,8 @@ Make scrolling on your site much more musical.
 ```javascript
 // Play a musical note every 800 pixels scrolled
 // By default we use 400px
+// The second parameter specifies the folder where the sound files are resided.
+// By default we use 'sounds'
 fartscroll(800); 
 ```
 
