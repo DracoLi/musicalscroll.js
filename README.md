@@ -13,7 +13,8 @@ Make scrolling on your site much more musical.
 // By default we use 400px
 // The second parameter specifies the folder where the sound files are resided.
 // By default we use 'sounds'
-fartscroll(800); 
+musicalscroll(800, 'sounds'); 
 ```
+
 
 Inspired by [fartscroll.js](http://theonion.github.io/fartscroll.js/), but now much more elegant.
